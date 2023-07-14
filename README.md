@@ -2,7 +2,7 @@
 ## 👦 About me
 I am a student of Computer Science at the University of Lodz in the third year. My goal is to gain my first commercial experience in the IT field as a programmer and to improve my skills during work.
 In my free time, I solve problems on Codewars and read tech articles.
-<br>
+<br><br>
 I'm currently working on my bachelor thesis - it will be a web application to manage projects in a team, something like trello.
 Technologies I am using in this project:
 <div id="badges">
